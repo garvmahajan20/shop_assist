@@ -278,5 +278,6 @@ else:
 
 ## License & Attribution
 
-- **Dataset:** The underlying training dataset is sourced from the [Bitext Retail / E-commerce LLM Chatbot Training Dataset](https://huggingface.co/datasets/bitext/Bitext-retail-ecommerce-llm-chatbot-training-dataset), licensed under Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) / Apache 2.0.
-- **Code & Project:** Developed for educational and portfolio demonstration purposes.
+- **Dataset:** The [Bitext Retail / E-commerce LLM Chatbot Training Dataset](https://huggingface.co/datasets/bitext/Bitext-retail-ecommerce-llm-chatbot-training-dataset) is identified on its official dataset card as licensed under the **Community Data License Agreement (CDLA) Sharing 1.0**. See the [official dataset card](https://huggingface.co/datasets/bitext/Bitext-retail-ecommerce-llm-chatbot-training-dataset/blob/main/README.md).
+- **Attribution and sharing:** The dataset card describes attribution and share-alike requirements for the dataset and its derivatives. Review and comply with the [CDLA-Sharing 1.0 terms](https://cdla.dev/sharing-1-0/) when using or redistributing dataset-derived materials.
+- **Code and model artifacts:** The dataset license should not be presented as automatically licensing every part of this repository. This README does not declare a separate project-wide license for the code and model artifacts.
